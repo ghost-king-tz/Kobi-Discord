@@ -1,7 +1,7 @@
 {
 
-    "OWNER_ID":"#discord id",
-    "BOT_TOKEN": "#discord bot token",
+    "OWNER_ID":"#1389580711027015740",
+    "BOT_TOKEN": "#9574",
     "tenorAPI":"WOO683P8YEZQ", //#DONT EDIT or NOT WORK OKE.
     "DEFAULT_PREFIX":"k!",
     "mongoPass": "#mongopass Database url",
